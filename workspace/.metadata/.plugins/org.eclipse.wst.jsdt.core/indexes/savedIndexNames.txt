@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+/home/lab/Documentos/curso/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3880640691.index
+2026528684.index
+3856022689.index
+725422023.index
+884140206.index
+790989910.index
+2574286307.index
+3571774258.index

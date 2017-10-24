@@ -1,0 +1,11 @@
+127.0.0.1 - - [18/Aug/2017:13:35:39 -0300] "GET / HTTP/1.1" 404 1078
+127.0.0.1 - - [18/Aug/2017:13:35:39 -0300] "GET /brewer/cervejas/novo HTTP/1.1" 200 6370
+127.0.0.1 - - [18/Aug/2017:13:35:39 -0300] "GET /brewer/layout/javascripts/algaworks.min.js HTTP/1.1" 200 1433
+127.0.0.1 - - [18/Aug/2017:13:35:39 -0300] "GET /brewer/layout/stylesheets/application.css HTTP/1.1" 200 1091
+127.0.0.1 - - [18/Aug/2017:13:35:39 -0300] "GET /brewer/layout/stylesheets/vendors.min.css HTTP/1.1" 200 167935
+127.0.0.1 - - [18/Aug/2017:13:35:39 -0300] "GET /brewer/layout/stylesheets/algaworks.min.css HTTP/1.1" 200 8699
+127.0.0.1 - - [18/Aug/2017:13:35:39 -0300] "GET /brewer/layout/javascripts/vendors.min.js HTTP/1.1" 200 145096
+127.0.0.1 - - [18/Aug/2017:13:35:39 -0300] "GET /brewer/images/logo.png HTTP/1.1" 200 1243
+127.0.0.1 - - [18/Aug/2017:13:35:40 -0300] "GET /brewer/layout/vendors/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.1 HTTP/1.1" 200 70728
+127.0.0.1 - - [18/Aug/2017:13:35:43 -0300] "GET /brewer/WEB-INF/classes/templates/layout/LayoutPadrao.html HTTP/1.1" 404 1055
+127.0.0.1 - - [18/Aug/2017:13:35:43 -0300] "GET /favicon.ico HTTP/1.1" 404 1089
