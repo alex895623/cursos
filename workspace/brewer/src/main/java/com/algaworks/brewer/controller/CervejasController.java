@@ -2,6 +2,8 @@ package com.algaworks.brewer.controller;
 
 import javax.validation.Valid;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
@@ -15,8 +17,14 @@ import com.algaworks.brewer.model.Cerveja;
 @RequestMapping("/cervejas")
 public class CervejasController {
 
+	private static final Logger logger = LoggerFactory.getLogger(CervejasController.class);
+	
 	@RequestMapping("/novo")
 	public String novo(Cerveja cerveja) {
+		if (logger.isDebugEnabled()) {
+			logger.info("Aqui é um log nível info!");
+		}
+		
 		return "cerveja/CadastroCerveja";
 	}
 	
